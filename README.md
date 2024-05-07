@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on anything that aligns with my tech stack
 - 📫 How to reach me 
 1. Email - philwekullo@gmail.com
-2. LinkedIn - https://www.linkedin.com/in/philip-wekullo-6b17bb305/
+2. LinkedIn - https://www.linkedin.com/in/philip-wekullo/
 
 
 
