@@ -6,6 +6,8 @@
   3. React JS
   4. Flask
   5. Tailwind CSS
+  6. Express.js
+  7. Node.js
 
 - Interested in learning Django and Next JS.     
      
