@@ -8,8 +8,10 @@
   5. Tailwind CSS
   6. Express.js
   7. Node.js
+  8. React Native
+  9. Next.js
 
-- Interested in learning Django and Next JS.     
+- Interested in learning Django.     
      
 - 💞️ I’m looking to collaborate on anything that aligns with my tech stack
 - 📫 How to reach me 
