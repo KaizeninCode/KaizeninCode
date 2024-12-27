@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phil Wekullo. I go by @KaizeninCode
-- 👀 I’m a music producer and Fullstack Software Developer. Attention to detail is my thing.
+- 👀 I’m a music producer and Full Stack Software Developer. Attention to detail is my thing.
 - 🌱 Tech Stack
   1. Python
   2. JavaScript
